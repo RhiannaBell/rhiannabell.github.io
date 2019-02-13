@@ -99,12 +99,12 @@ textarea {
 
 @font-face {
     font-family: Header;
-    src: url(../fonts/NotoSerif-Regular.ttf);
+    src: url(../fonts/Poppins-Medium.ttf);
 }
 
 @font-face {
     font-family: BCopy;
-    src: url(../fonts/NotoSerif-Regular.ttf);
+    src: url(../fonts/Poppins-Regular.ttf);
 }
 
 .h1, .h2, .h3, .h4 {
